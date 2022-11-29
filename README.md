@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArbazAshfaqueShaikh
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Manual Testing
+- 👀 I have experience of 1 year in Software Testing
 - 💞️ I’m looking for job as Software Testing Engineer
 - 📫 To reach me : Contact 8010062785
 
